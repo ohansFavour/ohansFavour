@@ -11,11 +11,8 @@
 <text class="lanelabel" x="456" y="68">BUILDING · PRLENS.DEV</text></g>
 <g><path class="edge edge-added" d="M218,154 L218,206" marker-end="url(#mk-added)"/>
 <circle r="2.6" fill="#3fb950"><animateMotion dur="1.6s" repeatCount="indefinite" path="M218,154 L218,206"/></circle>
-<path class="glow" stroke="#3fb950" d="M218,268 L218,320"/>
-<path class="edge edge-added hero" d="M218,268 L218,320" marker-end="url(#mk-added)"/>
-<circle r="3" fill="#3fb950"><animateMotion dur="2.1s" repeatCount="indefinite" path="M218,268 L218,320"/></circle>
-<circle r="3" fill="#3fb950"><animateMotion dur="2.1s" begin="-1.4s" repeatCount="indefinite" path="M218,268 L218,320"/></circle>
-<circle r="3" fill="#3fb950"><animateMotion dur="2.1s" begin="-0.7s" repeatCount="indefinite" path="M218,268 L218,320"/></circle>
+<path class="edge edge-added" d="M218,268 L218,320" marker-end="url(#mk-added)"/>
+<circle r="2.6" fill="#3fb950"><animateMotion dur="1.6s" repeatCount="indefinite" path="M218,268 L218,320"/></circle>
 <path class="edge edge-added" d="M404,123 L417,123 C424.18,123 430,128.82 430,136 L430,224 C430,231.18 435.82,237 443,237 L456,237" marker-end="url(#mk-added)"/>
 <circle r="2.6" fill="#3fb950"><animateMotion dur="1.6s" repeatCount="indefinite" path="M404,123 L417,123 C424.18,123 430,128.82 430,136 L430,224 C430,231.18 435.82,237 443,237 L456,237"/></circle>
 <path class="edge edge-modified" d="M642,268 L642,320" marker-end="url(#mk-modified)"/>
